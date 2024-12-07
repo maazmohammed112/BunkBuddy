@@ -1,3 +1,8 @@
+BunkBuddy is live on the web and available as an APK for Android users. 
+Access all its features conveniently on your browser or download the app for a dedicated experience.
+https://linktr.ee/maazmohammed112
+
+
 ### **BunkBuddy: Feature Guide and How to Use It**
 
 BunkBuddy is designed for an easy, user-friendly experience with all data securely stored in local storage. Here's a detailed guide to setting up and using every feature:
